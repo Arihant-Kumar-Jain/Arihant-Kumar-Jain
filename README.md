@@ -62,8 +62,7 @@ Here are some of the interesting projects I've been working on:
 #### 🧠 Artificial Intelligence & Machine Learning
 - **[Autonomous-Multi-Agent-Swarm-Sorting-System](https://github.com/Arihant-Kumar-Jain/Autonomous-Multi-Agent-Swarm-Sorting-System)**  
   *CS671 2026 Hackathon Project* — Built with ROS 2 Humble and Gazebo Classic. This system leverages Multi-Agent PPO (MAPPO) and reinforcement learning to coordinate intelligent autonomous swarm sorting operations and logistics optimization.
-- **[GEOVISION-AI](https://github.com/Arihant-Kumar-Jain/GEOVISION-AI)**  
-  *Disaster detection & prediction platform* — Deploys a U-Net model with an EfficientNet backbone for flood detection alongside FastAI for forest coverage analysis. Containerized using Docker and served via Flask for scalable environmental monitoring.
+
 - **[FLOW---Fraud-and-Loan-Optimization-Workbench](https://github.com/Arihant-Kumar-Jain/FLOW---Fraud-and-Loan-Optimization-Workbench)**  
   *Real-time data platform* — A production-grade streaming data solution built with Pathway and NATS JetStream. Features real-time fraud detection and intelligent customer targeting using online machine learning and a React frontend.
 
@@ -74,8 +73,7 @@ Here are some of the interesting projects I've been working on:
   *AI-Powered Budget Estimator* — An intuitive web application designed to streamline and automate complex Indian wedding budget calculations. Includes comprehensive setup documentation to help users plan smarter and celebrate bigger.
 - **[SkAiNet](https://github.com/Arihant-Kumar-Jain/SkAiNet)**  
   *Decentralized Offline Mesh Network* — A highly portable mesh communication system engineered for emergencies and strategic operations. Uses battery-powered LoRa nodes to form a self-healing network for text and location sharing when the internet fails.
-- **[EnvironmentAnalyzerAI](https://github.com/Arihant-Kumar-Jain/EnvironmentAnalyzerAI)**  
-  *Deployment Infrastructure* — The core containerization and Docker configuration repository used to deploy large-scale machine learning models (like GEOVISION-AI) efficiently, overcoming standard platform size constraints.
+
 
 ---
 
