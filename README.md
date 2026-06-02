@@ -68,6 +68,8 @@ Here are some of the interesting projects I've been working on:
   *Real-time data platform* — A production-grade streaming data solution built with Pathway and NATS JetStream. Features real-time fraud detection and intelligent customer targeting using online machine learning and a React frontend.
 
 #### 💻 Development & Other Tools
+- **[algorithms-and-systems](https://github.com/Arihant-Kumar-Jain/algorithms-and-systems)**  
+  *Advanced C++ & Concurrency* — A comprehensive collection of advanced system-level C++ implementations. Showcases deep technical proficiency in multithreading, mutex synchronization, smart pointers, condition variables, and complex asynchronous architectures.
 - **[404_Dulhan_Not_Found (WeddingBudget.ai)](https://github.com/Arihant-Kumar-Jain/404_Dulhan_Not_Found)**  
   *AI-Powered Budget Estimator* — An intuitive web application designed to streamline and automate complex Indian wedding budget calculations. Includes comprehensive setup documentation to help users plan smarter and celebrate bigger.
 - **[SkAiNet](https://github.com/Arihant-Kumar-Jain/SkAiNet)**  
