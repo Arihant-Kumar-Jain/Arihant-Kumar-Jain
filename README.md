@@ -13,11 +13,19 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Currently working on **AI**, **Multi-Agent Systems**, and **Full-Stack Development**.
+- 🎓 Student at **IIT Mandi** | Based in Gurgaon, India.
+- 🚀 Passionate about **AI**, **Multi-Agent Systems**, and **Full-Stack Development**.
+- 🏆 **Specialist** on **Codeforces** (`Max Rating: 1450`) and an active competitive programmer with **200+** problems solved on **LeetCode**.
 - 💡 Exploring innovative solutions through hackathons and deep-tech projects.
 - 🤝 Open to collaborating on **AI/ML**, **Optimization**, and **Open Source** projects.
-- 📫 Let's Connect: <a href="https://www.linkedin.com/in/arihant-jain-0112a6217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" align="center"/></a>
-- 💻 Competitive Programming: <a href="https://leetcode.com/u/ariberi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode" align="center"/></a> <a href="https://codeforces.com/profile/XeroRazer"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white" alt="Codeforces" align="center"/></a>
+
+### 🔗 Let's Connect & Code
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/arihant-jain-0112a6217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/ariberi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/XeroRazer"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/></a>
+</p>
 
 ---
 
