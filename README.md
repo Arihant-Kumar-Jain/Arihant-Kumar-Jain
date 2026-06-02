@@ -52,7 +52,7 @@ Here are some of the interesting projects I've been working on:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arihant-Kumar-Jain&show_icons=true&theme=radium&hide_border=true" alt="Arihant's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arihant-Kumar-Jain&theme=radical" alt="Arihant's GitHub Stats" />
 </div>
 <br/>
 <div align="center">
@@ -60,7 +60,7 @@ Here are some of the interesting projects I've been working on:
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arihant-Kumar-Jain&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Arihant-Kumar-Jain&theme=radical" alt="Top Languages" />
 </div>
 
 ---
