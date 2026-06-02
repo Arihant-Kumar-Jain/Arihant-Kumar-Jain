@@ -88,7 +88,7 @@ Here are some of the interesting projects I've been working on:
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arihant-Kumar-Jain&layout=compact&theme=radium&hide_border=true&exclude_repo=SkAiNet" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Arihant-Kumar-Jain&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
