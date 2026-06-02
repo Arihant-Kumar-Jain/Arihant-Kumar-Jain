@@ -16,7 +16,8 @@
 - 🎓 Currently working on **AI**, **Multi-Agent Systems**, and **Full-Stack Development**.
 - 💡 Exploring innovative solutions through hackathons and deep-tech projects.
 - 🤝 Open to collaborating on **AI/ML**, **Optimization**, and **Open Source** projects.
-- 📫 How to reach me: [Your Email / LinkedIn]
+- 📫 Let's Connect: <a href="https://www.linkedin.com/in/arihant-jain-0112a6217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" align="center"/></a>
+- 💻 Competitive Programming: <a href="https://leetcode.com/u/ariberi/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" alt="LeetCode" align="center"/></a> <a href="https://codeforces.com/profile/XeroRazer"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=Codeforces&logoColor=white" alt="Codeforces" align="center"/></a>
 
 ---
 
